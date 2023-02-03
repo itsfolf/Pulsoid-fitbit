@@ -1,0 +1,7 @@
+<svg class="background">
+  <image href="icon.png" width="99" height="99" x="50%-50" y="15" />
+  <text id="status" x="50%" y="50%+5">Loading...</text>
+  <text id="pulse" x="50%" y="50%+70">00</text>
+  <text x="50%" y="100%-50" class="warn">Do not turn off your watch.</text>
+  <text x="50%" y="100%-30" class="warn">Let the screen turn off automatically.</text>
+</svg>

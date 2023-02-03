@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~6.1.0"
+  },
+  "fitbit": {
+    "appUUID": "af3dd839-d48e-46e4-a021-4562f5bf946f",
+    "appType": "app",
+    "appDisplayName": "Pulsoid",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_internet"
+    ],
+    "buildTargets": [
+      "atlas",
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Pulsoid"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

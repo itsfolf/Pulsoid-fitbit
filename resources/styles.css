@@ -1,0 +1,27 @@
+.background {
+  viewport-fill: #222222;
+}
+
+#status {
+  fill: white;
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: bold;
+  text-anchor: middle;
+  text-length: 99;
+}
+
+#pulse {
+  fill: #17a2b8;
+  font-size: 64;
+  font-family: System-Regular;
+  font-weight: bold;
+  text-anchor: middle;
+  text-length: 99;  
+}
+
+.warn {
+  fill: white;
+  text-anchor: middle;
+  font-size: 16;
+}
